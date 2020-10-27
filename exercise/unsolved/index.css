@@ -1,0 +1,10 @@
+body {
+  align-items: center;
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+}
+
+/*
+  Use Neuromorphism to make your input look like the one in the attached video
+*/
